@@ -9,6 +9,7 @@
 }
 
 body{
+	height: 100vh;
 	background: linear-gradient(lightcyan, PapayaWhip);
 }
 
